@@ -1,6 +1,6 @@
 // 「title, description, memo」のキーを持つオブジェクトを定義しましょう
 
-
+// aaaaaaa
 
 // オブジェクトpersonからkey「name」に該当するvalueを、ドット記法を使って取得しましょう
 
